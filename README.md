@@ -7,4 +7,4 @@ If you download the zip file, Unzip it into a folder of your choice and open the
 
 Give it a whirl.
 
-An alternative is mentioned in this thread ( ) and seems to work too, but I am unsure whether you have to (eventually) pay for it.
+An alternative is mentioned in this thread (https://forum.cyberlink.com/forum/posts/list/0/52392.page#447567) and seems to work too, but I am unsure whether you have to (eventually) pay for it.
